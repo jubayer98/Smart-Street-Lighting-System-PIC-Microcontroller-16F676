@@ -1,0 +1,48 @@
+MPLINK 4.43, Linker
+Linker Map File - Created Mon Nov 14 03:25:06 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x0000c4
+.config_2007_MOTION PIC16F676.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000061      
+                            0x002007    0x002007      
+            99 out of 1158 program addresses used, program memory utilization is 8%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BUZZER   0x000016    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                DELAY1252   0x00001e    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                     MAIN   0x000013    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    REP_1   0x000020    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    REP_2   0x000022    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    REP_3   0x000024    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    START   0x000002    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+               delay_20ms   0x00002f    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000002    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                     MAIN   0x000013    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                   BUZZER   0x000016    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                DELAY1252   0x00001e    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    REP_1   0x000020    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    REP_2   0x000022    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+                    REP_3   0x000024    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+               delay_20ms   0x00002f    program     static C:\Users\Nanosoft & Technolog\Desktop\BABU NSU\MOTION SENSOR\MOTION PIC16F676.asm
+
+
